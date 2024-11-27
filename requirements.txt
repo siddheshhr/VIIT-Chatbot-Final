@@ -1,0 +1,8 @@
+fastapi
+langchain
+langchain_huggingface
+pymongo
+torch
+transformers
+uvicorn
+accelerate
