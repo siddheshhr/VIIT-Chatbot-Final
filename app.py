@@ -2,7 +2,7 @@ import os
 import torch
 from fastapi import FastAPI, Request, HTTPException
 from pymongo import MongoClient
-from langchain.vectorstores import MongoDBAtlasVectorSearch
+from langchain_community.vectorstores import MongoDBAtlasVectorSearch
 from langchain_huggingface import HuggingFaceEmbeddings
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from typing import List, Dict
