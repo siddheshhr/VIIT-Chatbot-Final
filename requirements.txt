@@ -6,3 +6,4 @@ torch
 transformers
 uvicorn
 accelerate
+langchain-community
