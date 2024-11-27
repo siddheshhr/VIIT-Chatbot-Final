@@ -7,3 +7,6 @@ transformers
 uvicorn
 accelerate
 langchain-community
+langchain_mongodb
+langchain_huggingface
+sentence-transformers
